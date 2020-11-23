@@ -1,0 +1,24 @@
+body{
+    background: linear-gradient(to right,lightgrey,lightblue);
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+    font-style: italic;
+    font-family: cursive;
+    color: teal;
+  }
+  form{
+      font-size: xx-large;
+      text-align: center;
+      font-family: 'Amatic SC', cursive;
+}
+  .button{
+    width: 100px;
+    height: 50px;
+    font-size: 25px;
+    margin: 2%;
+    background: dimgray;
+    color: #FFFFFF;
+    border: none;
+  }
